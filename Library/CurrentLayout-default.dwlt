@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Hierarchy
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1280
     height: 629.3333
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 67
+  controlID: 17
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -402,13 +402,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.115198806, y: -0.028305493, z: 0.0032899866, w: 0.9929517}
+    m_Target: {x: 0.04308031, y: -0.28806108, z: 0.012956767, w: 0.95657736}
     speed: 2
-    m_Value: {x: 0.115201555, y: -0.026815556, z: 0.0031171292, w: 0.9929753}
+    m_Value: {x: -0.04308031, y: 0.28806108, z: -0.012956766, w: -0.95657736}
   m_Size:
-    m_Target: 7.128404
+    m_Target: 6.494269
     speed: 2
-    m_Value: 7.125732
+    m_Value: 6.494269
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -461,9 +461,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1c4a0000
-      m_LastClickedID: 18972
-      m_ExpandedIDs: e0b6ffff06b7ffffd2b7ffff44fbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 44fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -533,10 +533,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -75
-    m_HBaseRangeMax: 75
-    m_VBaseRangeMin: -133.33334
-    m_VBaseRangeMax: 133.33334
+    m_HBaseRangeMin: -81
+    m_HBaseRangeMax: 81
+    m_VBaseRangeMin: -143.83334
+    m_VBaseRangeMax: 143.83334
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -545,7 +545,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -553,11 +553,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 685.3333
-      height: 266.66666
+      height: 287.66666
     m_Scale: {x: 0.99999994, y: 0.9999999}
-    m_Translation: {x: 342.66666, y: 133.33333}
+    m_Translation: {x: 342.66666, y: 143.83333}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -565,9 +565,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -342.6667
-      y: -133.33334
+      y: -143.83334
       width: 685.3334
-      height: 266.6667
+      height: 287.6667
     m_MinimalGUI: 1
   m_defaultScale: 0.9999999
   m_LastWindowPixelSize: {x: 1028, y: 431.5}
@@ -614,22 +614,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/scripts
+    - Assets/AurynSky/Gems Ultimate Pack/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 66
   m_LastFolders:
-  - Assets/scripts
+  - Assets/AurynSky/Gems Ultimate Pack/Prefabs
   m_LastFoldersGridSize: 66
   m_LastProjectPath: C:\Users\HP\Ball Balace
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 74.33334}
-    m_SelectedIDs: b4400000
-    m_LastClickedID: 16564
-    m_ExpandedIDs: 000000008a4000008c4000008e4000009040000092400000a4400000aa400000b640000000ca9a3b
+    scrollPos: {x: 0, y: 33.33432}
+    m_SelectedIDs: be400000
+    m_LastClickedID: 16574
+    m_ExpandedIDs: 00000000924000009440000096400000984000009a400000ac400000c040000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -657,7 +657,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008a4000008c4000008e4000009040000092400000
+    m_ExpandedIDs: 00000000924000009440000096400000984000009a400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -684,7 +684,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000485700001a5c0000385c00003a5c000052460000886900006473000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
